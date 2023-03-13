@@ -25,6 +25,11 @@
   font-size: 25px;
 }
 
+.navbar a:hover{
+  color:rgb(106, 178, 245);
+  
+}
+
 .toggleButton {
   width: 100%;
   height: 100px;

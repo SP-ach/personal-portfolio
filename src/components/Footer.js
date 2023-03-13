@@ -14,6 +14,7 @@ function Footer() {
         <FacebookIcon />
         <LinkedInIcon />
       </div>
+      <p>Mail id: sthitaprangyachiku@gmail.com</p>
       <p> &copy; 2023 S.P Acharya</p>
     </div>
   );
